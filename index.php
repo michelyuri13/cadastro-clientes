@@ -42,7 +42,7 @@ if ($_POST) {
             <a class="nav-link" href="lista-cliente.php">Lista de Cliente</a>
           </li>
           <li class="nav-item">
-            <a class="nav-link" href="#">Cadastro de Filme</a>
+            <a class="nav-link" href="lista-filmes.php">Lista de Filmes</a>
           </li>
 
         </ul>

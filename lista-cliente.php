@@ -66,7 +66,7 @@ $dados[] = ['nome' => 'Michel 5', 'sobrenome' => 'Costa', 'nascimento' => 1995, 
             <a class="nav-link" href="lista-cliente.php">Lista de Cliente</a>
           </li>
           <li class="nav-item">
-            <a class="nav-link" href="#">Cadastro de Filme</a>
+            <a class="nav-link" href="lista-filmes.php">Cadastro de Filme</a>
           </li>
 
         </ul>
